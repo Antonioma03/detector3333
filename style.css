@@ -1,0 +1,9 @@
+body{
+background-color: springgreen;
+text-align: center;
+}
+
+#dibujos,#borar{
+    background-color: maroon;
+    color: rgb(255, 255, 255);
+}
